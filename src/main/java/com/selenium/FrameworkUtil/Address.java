@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Address {
 	
-
+           //variables
 	    private List<String> types;
 
 	    private String website;
