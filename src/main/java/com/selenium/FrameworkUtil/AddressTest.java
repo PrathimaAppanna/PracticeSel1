@@ -15,7 +15,7 @@ public class AddressTest {
 	  functionHelper = new FunctionHelper("https://rahulshettyacademy.com");
   }
 	
-  @Test
+  @Test 
   public void test()
   {
 	  try {
